@@ -13,7 +13,7 @@ No real person, institution or application appears anywhere in the data.
 
 **No API key. No cost.** One open model (`Qwen2.5-3B-Instruct`) runs inside the notebook.
 
-**Due: Saturday 21 November 2026, 23:59 (Asia/Tashkent).** 15 points.
+**Due: Saturday 21 November 2026, 23:59 (Asia/Almaty).** 15 points.
 
 ## Setup
 
